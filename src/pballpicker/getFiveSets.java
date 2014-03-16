@@ -9,6 +9,8 @@ public class getFiveSets {
 
 		int i = 0, val = 0;
 		String valString = ""; 
+		
+		
 
 		for (i = 1; i <= 5; i++) {
 			valString = getRandomFive();
